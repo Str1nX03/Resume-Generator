@@ -1,5 +1,8 @@
 - Set up a Python virtual environment to run all these codes
+- Write "git clone https://github.com/Str1nX03/Project.git" in the terminal to clone this whole repository
 - Write "pip install -r requirements.txt" in the terminal to install all the package dependencies
 - Your can tweak with the prompt as much as you want to make the model's results better
 - Assign your Google Gemini API key in the place of GOOGLE_API_KEY
 - Write "python trial.py" in the terminal to run the flask app on basic html structure and css styling to test the web app on local host
+- Enter your basic information that is being asked and enter the job description as per you
+- Submit to get the generated PDF of your Resume
